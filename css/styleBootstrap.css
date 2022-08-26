@@ -1,0 +1,46 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.logo-pagina{
+    width: 60px;
+}
+
+.carousel-fade{
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.title-container h1{
+    text-align: center;
+}
+.p-banner{
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.bg-info{
+    margin-top: 55px;
+}
+.catalogo-button-container{
+    margin-top: 3vh;
+    padding-left: 1%;
+    margin-bottom: 10vh;
+}
+
+.card-group{
+    padding-bottom: 10vh;
+}
+
+.video_container{
+    position: absolute;
+    z-index: -100;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: calc(100vh * 0,5625);
+}
+
+/* .mapa{
+
+} */
